@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 Sobre mí
 
-Soy un desarrollador web con enfoque *frontend*, apasionado por crear interfaces responsivas, limpias y funcionales. Me destaco por mi compromiso con el detalle, la colaboración en equipo y la capacidad de resolver problemas técnicos de forma eficiente. Actualmente me especializo en tecnologías como **React**, **Node.js** y **MongoDB**, sin dejar de lado la mejora constante a través del aprendizaje continuo.
+Soy un desarrollador web con enfoque *frontend*, apasionado por crear interfaces responsivas, limpias y funcionales. Me destaco por mi compromiso con el detalle, la colaboración en equipo y la capacidad de resolver problemas técnicos de forma eficiente. Actualmente me especializo en **React**.
 
 ---
 
